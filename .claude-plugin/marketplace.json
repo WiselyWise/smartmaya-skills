@@ -1,0 +1,28 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "smartmaya-skills",
+  "owner": {
+    "name": "WiselyWise Pte Ltd"
+  },
+  "description": "Free, open-source Smart Maya AI agent skills for Claude Code.",
+  "plugins": [
+    {
+      "name": "smartmaya-tidy",
+      "source": {
+        "source": "github",
+        "repo": "WiselyWise/smartmaya-tidy"
+      },
+      "description": "Safely audit duplicate files in Google Drive and produce an XLSX report before any approved cleanup.",
+      "author": {
+        "name": "Chandra Kumar"
+      },
+      "homepage": "https://github.com/WiselyWise/smartmaya-tidy",
+      "repository": "https://github.com/WiselyWise/smartmaya-tidy",
+      "license": "MIT",
+      "keywords": ["claude-skill", "google-drive", "duplicate-files", "smartmaya"],
+      "category": "productivity",
+      "tags": ["claude-code", "google-drive", "ai-agent"],
+      "skills": ["."]
+    }
+  ]
+}
