@@ -23,6 +23,24 @@
       "category": "productivity",
       "tags": ["claude-code", "google-drive", "ai-agent"],
       "skills": ["."]
+    },
+    {
+      "name": "smartmaya-product-hunt-setup",
+      "source": {
+        "source": "github",
+        "repo": "WiselyWise/smartmaya-product-hunt-setup"
+      },
+      "description": "Prepare a truthful, complete Product Hunt page or launch draft, with an owner review gate before scheduling or publishing.",
+      "author": {
+        "name": "Chandra Kumar"
+      },
+      "homepage": "https://github.com/WiselyWise/smartmaya-product-hunt-setup",
+      "repository": "https://github.com/WiselyWise/smartmaya-product-hunt-setup",
+      "license": "MIT",
+      "keywords": ["product-hunt", "launch", "chatgpt", "openai-codex", "smartmaya"],
+      "category": "marketing",
+      "tags": ["claude-code", "chatgpt", "openai-codex", "ai-agent"],
+      "skills": ["claude-product-hunt-setup"]
     }
   ]
 }
