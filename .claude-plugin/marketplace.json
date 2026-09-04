@@ -30,7 +30,7 @@
         "source": "github",
         "repo": "WiselyWise/smartmaya-product-hunt-setup"
       },
-      "description": "Prepare a truthful, complete Product Hunt page or launch draft, with an owner review gate before scheduling or publishing.",
+      "description": "Prepare a truthful, complete Product Hunt page or launch draft, with an optional direct-entry mode via browser/computer-use access and an owner review gate before scheduling or publishing.",
       "author": {
         "name": "Chandra Kumar"
       },
