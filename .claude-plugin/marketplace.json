@@ -41,6 +41,42 @@
       "category": "marketing",
       "tags": ["claude-code", "chatgpt", "openai-codex", "ai-agent"],
       "skills": ["claude-product-hunt-setup"]
+    },
+    {
+      "name": "smartmaya-linkedin-article-publisher",
+      "source": {
+        "source": "github",
+        "repo": "WiselyWise/smartmaya-linkedin-article-publisher"
+      },
+      "description": "Draft a LinkedIn Article plus companion feed post, render a branded cover image (title, flow, or hero/villain scene styles), and publish — after explicit owner review of the exact final text and image.",
+      "author": {
+        "name": "Chandra Kumar"
+      },
+      "homepage": "https://github.com/WiselyWise/smartmaya-linkedin-article-publisher",
+      "repository": "https://github.com/WiselyWise/smartmaya-linkedin-article-publisher",
+      "license": "MIT",
+      "keywords": ["linkedin", "content-publishing", "chatgpt", "openai-codex", "smartmaya"],
+      "category": "marketing",
+      "tags": ["claude-code", "chatgpt", "openai-codex", "ai-agent"],
+      "skills": ["claude-linkedin-article-publisher"]
+    },
+    {
+      "name": "smartmaya-x-article-publisher",
+      "source": {
+        "source": "github",
+        "repo": "WiselyWise/smartmaya-x-article-publisher"
+      },
+      "description": "Draft a long-form X (Twitter) Article plus teaser post, render a branded cover image (title, flow, or hero/villain scene styles), and publish — after explicit owner review of the exact final text and image.",
+      "author": {
+        "name": "Chandra Kumar"
+      },
+      "homepage": "https://github.com/WiselyWise/smartmaya-x-article-publisher",
+      "repository": "https://github.com/WiselyWise/smartmaya-x-article-publisher",
+      "license": "MIT",
+      "keywords": ["x", "twitter", "content-publishing", "chatgpt", "openai-codex", "smartmaya"],
+      "category": "marketing",
+      "tags": ["claude-code", "chatgpt", "openai-codex", "ai-agent"],
+      "skills": ["claude-x-article-publisher"]
     }
   ]
 }
