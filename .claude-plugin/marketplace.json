@@ -77,6 +77,60 @@
       "category": "marketing",
       "tags": ["claude-code", "chatgpt", "openai-codex", "ai-agent"],
       "skills": ["claude-x-article-publisher"]
+    },
+    {
+      "name": "smartmaya-expense-report-prep",
+      "source": {
+        "source": "github",
+        "repo": "WiselyWise/smartmaya-expense-report-prep"
+      },
+      "description": "Prepare accountant-ready expense reports for a chosen period, preserving original receipts and flagging duplicates and currency issues. Works with your Zoho Expense account.",
+      "author": {
+        "name": "Chandra Kumar"
+      },
+      "homepage": "https://github.com/WiselyWise/smartmaya-expense-report-prep",
+      "repository": "https://github.com/WiselyWise/smartmaya-expense-report-prep",
+      "license": "MIT",
+      "keywords": ["zoho-expense", "expense-reports", "accounting", "chatgpt", "openai-codex", "smartmaya"],
+      "category": "finance",
+      "tags": ["claude-code", "chatgpt", "openai-codex", "ai-agent", "zoho"],
+      "skills": ["claude-expense-report-prep"]
+    },
+    {
+      "name": "smartmaya-expense-accountant-pack",
+      "source": {
+        "source": "github",
+        "repo": "WiselyWise/smartmaya-expense-accountant-pack"
+      },
+      "description": "Review a financial year of expenses, approve only with authorization, create native reports with original attachments, and export a verified accountant-ready pack. Works with your Zoho Expense account.",
+      "author": {
+        "name": "Chandra Kumar"
+      },
+      "homepage": "https://github.com/WiselyWise/smartmaya-expense-accountant-pack",
+      "repository": "https://github.com/WiselyWise/smartmaya-expense-accountant-pack",
+      "license": "MIT",
+      "keywords": ["zoho-expense", "accountant", "expense-reports", "accounting", "chatgpt", "openai-codex", "smartmaya"],
+      "category": "finance",
+      "tags": ["claude-code", "chatgpt", "openai-codex", "ai-agent", "zoho"],
+      "skills": ["."]
+    },
+    {
+      "name": "smartmaya-social-post-scheduler",
+      "source": {
+        "source": "github",
+        "repo": "WiselyWise/smartmaya-social-post-scheduler"
+      },
+      "description": "Validate, schedule, and verify social-media posts from a manifest, with duplicate checks and an explicit approval gate before anything goes live. Works with your Zoho Social account.",
+      "author": {
+        "name": "Chandra Kumar"
+      },
+      "homepage": "https://github.com/WiselyWise/smartmaya-social-post-scheduler",
+      "repository": "https://github.com/WiselyWise/smartmaya-social-post-scheduler",
+      "license": "MIT",
+      "keywords": ["zoho-social", "social-media", "scheduling", "chatgpt", "openai-codex", "smartmaya"],
+      "category": "marketing",
+      "tags": ["claude-code", "chatgpt", "openai-codex", "ai-agent", "zoho"],
+      "skills": ["claude-social-post-scheduler"]
     }
   ]
 }
